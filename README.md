@@ -1,6 +1,6 @@
-#ESCOLA_API_DRF
+ESCOLA_API_DRF
 
-##Treinamento do curso Django criando uma API utilizando o Django Rest Framework. - Curso Alura.
+Treinamento do curso Django criando uma API utilizando o Django Rest Framework. - Curso Alura.
 
 Os métodos: criar ações, trabalhar com essas ações, e disponibiliza todos recursos da criação, edição e exclusão de matrícula, alunos e cursos API.
 
